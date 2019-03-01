@@ -1,0 +1,14 @@
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsRover.CastleIoC\bin\Debug\netcoreapp2.2\MarsRover.CastleIoC.deps.json
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsRover.CastleIoC\bin\Debug\netcoreapp2.2\MarsRover.CastleIoC.dll
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsRover.CastleIoC\obj\Debug\netcoreapp2.2\MarsRover.CastleIoC.csprojAssemblyReference.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsRover.CastleIoC\obj\Debug\netcoreapp2.2\MarsRover.CastleIoC.csproj.CoreCompileInputs.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsRover.CastleIoC\obj\Debug\netcoreapp2.2\MarsRover.CastleIoC.AssemblyInfoInputs.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsRover.CastleIoC\obj\Debug\netcoreapp2.2\MarsRover.CastleIoC.AssemblyInfo.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsRover.CastleIoC\bin\Debug\netcoreapp2.2\MarsRover.CastleIoC.pdb
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsRover.CastleIoC\obj\Debug\netcoreapp2.2\MarsRover.CastleIoC.dll
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsRover.CastleIoC\obj\Debug\netcoreapp2.2\MarsRover.CastleIoC.pdb
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsRover.CastleIoC\bin\Debug\netcoreapp2.2\MarsOver.Domain.dll
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsRover.CastleIoC\bin\Debug\netcoreapp2.2\MarsOver.Domain.pdb
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsRover.CastleIoC\obj\Debug\netcoreapp2.2\MarsRover.CastleIoC.csproj.CopyComplete
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsRover.CastleIoC\bin\Debug\netcoreapp2.2\MarsOver.Business.dll
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsRover.CastleIoC\bin\Debug\netcoreapp2.2\MarsOver.Business.pdb

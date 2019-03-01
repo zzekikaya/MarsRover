@@ -1,0 +1,12 @@
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\Business\bin\Debug\netcoreapp2.2\MarsOver.Business.deps.json
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\Business\bin\Debug\netcoreapp2.2\MarsOver.Business.dll
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\Business\bin\Debug\netcoreapp2.2\MarsOver.Business.pdb
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\Business\bin\Debug\netcoreapp2.2\MarsOver.Domain.dll
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\Business\bin\Debug\netcoreapp2.2\MarsOver.Domain.pdb
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\Business\obj\Debug\netcoreapp2.2\MarsOver.Business.csprojAssemblyReference.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\Business\obj\Debug\netcoreapp2.2\MarsOver.Business.csproj.CoreCompileInputs.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\Business\obj\Debug\netcoreapp2.2\MarsOver.Business.AssemblyInfoInputs.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\Business\obj\Debug\netcoreapp2.2\MarsOver.Business.AssemblyInfo.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\Business\obj\Debug\netcoreapp2.2\MarsOver.Business.csproj.CopyComplete
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\Business\obj\Debug\netcoreapp2.2\MarsOver.Business.dll
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\Business\obj\Debug\netcoreapp2.2\MarsOver.Business.pdb

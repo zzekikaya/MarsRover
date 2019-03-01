@@ -1,0 +1,9 @@
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsOver.Domain\bin\Debug\netcoreapp2.2\MarsOver.Domain.deps.json
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsOver.Domain\bin\Debug\netcoreapp2.2\MarsOver.Domain.dll
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsOver.Domain\bin\Debug\netcoreapp2.2\MarsOver.Domain.pdb
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsOver.Domain\obj\Debug\netcoreapp2.2\MarsOver.Domain.csprojAssemblyReference.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsOver.Domain\obj\Debug\netcoreapp2.2\MarsOver.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsOver.Domain\obj\Debug\netcoreapp2.2\MarsOver.Domain.AssemblyInfoInputs.cache
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsOver.Domain\obj\Debug\netcoreapp2.2\MarsOver.Domain.AssemblyInfo.cs
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsOver.Domain\obj\Debug\netcoreapp2.2\MarsOver.Domain.dll
+C:\Users\zeki\Documents\Visual Studio 2017\MyProjectFolder\MarsRover\MarsOver.Domain\obj\Debug\netcoreapp2.2\MarsOver.Domain.pdb
